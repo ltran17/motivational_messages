@@ -1,5 +1,6 @@
-# configs and keys
+# configs and data
 config/
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
