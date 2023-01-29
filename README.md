@@ -13,6 +13,6 @@ At the beginning of the pandemic, a group of my friends created the QuaranTeam: 
 
 The inspiration for this tutorial came from a conversation with the QuaranTeam as January 2023 kicked off and Sydney's messaging reflected the fresh start of a new year. She ends every workout with a cool down, and as she leads us through stretches, she free-styles a motivational talk. Her words can really hit home! I haven't been good about jotting down notes about what she said.
 
-I suppose this project is its own New Year's resolution: keep track of Sydney's words of wisdom, but do it programatically. (I'm a data scientist! Use the toolsAn achievable, measurable goal! The notebooks in this repository reflect my journey as I deciphered two APIs and explored the game-changing technology of Chat GPT3. 
+I suppose this project is its own New Year's resolution: keep track of Sydney's words of wisdom, but do it programatically. (I'm a data scientist, so, yeah, I'm scripting this and not writing it by hand.) An achievable, measurable goal! The notebooks in this repository reflect my journey as I deciphered two APIs and explored the game-changing technology of Chat GPT3. 
 
 
