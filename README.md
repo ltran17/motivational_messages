@@ -2,10 +2,10 @@
 In this Python tutorial, you will use APIs for YouTube and ChatGPT3 to create motivational messages based on a popular content creator's videos.
 
 ### Intended Audience
-This tutorial is geared toward junior data scientists and assumes comfort with Python and the Pandas package. Intermediate Python programmers will probably get the most out of this. Beginners can certainly follow along!
+This guide is geared toward junior data scientists and assumes comfort with Python and the Pandas package. Intermediate Python programmers will probably get the most out of this. Beginners can certainly follow along!
 
 ### Objectives
-In this tutorial, you will
+In this guide, you will
 * Use YouTube's API to get metadata about videos on a YouTube channel
 * Use an open source package to get transcripts from YouTube videos
 * Use OpenAI's API for Chat GPT3
@@ -20,6 +20,6 @@ This project is its own New Year's resolution: keep track of Sydney's words of w
 
 Tutorials and how-tos often gloss over the difficulties of learning a new skill and rarely mention the forehead-to-keyboard moments. Polished presentations make me think I'm alone in my struggles, and yet when I talk to real, live people, it is clear that I'm in very good company.
 
-In this tutorial, I will call out a couple of things that really slowed me down so that you can be on the lookout for them. It's a good bet that you will stumble over something completely different, and that is ok. I hope this tutorial will help you, somehow!
+It is a standard task to be told to use an API with only available documentation to guide you. For both the YouTube and ChatGPT APIs, you will consult the documentation to create your private keys and create requests. I will not walk you through the process, but I will call out a couple of things that really slowed me down so that you can be on the lookout for them. It's a good bet that you will stumble over something completely different, and that is ok. 
 
 
