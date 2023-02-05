@@ -1,6 +1,6 @@
 # `motivational_messages`
 
-In this Python tutorial, you will use APIs for YouTube and ChatGPT3 to create motivational messages based on a popular content creator's videos.
+In this Python tutorial, you will use APIs for YouTube and OpenAI to create motivational messages based on a popular content creator's videos.
 
 ### Intended Audience
 
