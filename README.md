@@ -18,7 +18,7 @@ In this guide, you will
 
 00. [Prep work](https://github.com/ltran17/motivational_messages/blob/main/notebooks/00-api-setup.ipynb): YouTube and OpenAI's APIs :white_check_mark:
 01. [Extract video metadata](https://github.com/ltran17/motivational_messages/blob/main/notebooks/01-metadata.ipynb) :white_check_mark:
-02. Extract transcripts for videos
+02. [Extract motivational talk for each video](https://github.com/ltran17/motivational_messages/blob/main/notebooks/02-transcripts.ipynb) :white_check_mark:
 03. Summarize motivational talks
 
 ### Why this tutorial
