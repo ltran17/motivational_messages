@@ -29,6 +29,8 @@ It is a standard task to be told to use an API with only available documentation
 
 ### What motivated me to create `motivational_messages`
 
+![Effort Thumbnails](img/effort_thumbnails.jpg)
+
 At the beginning of the pandemic, a group of my friends created the QuaranTeam: we streamed exercise videos three times a week to support and motivate each other since we could no longer meet at the gym. Our virtual meetings provided solace during some very hard days. As much as I needed the social support, the exercise also helped clear my mind and maintained -- improved! -- my physical and mental health. After trying out a variety of trainers, our favorite became [Sydney Houdyshell](https://www.youtube.com/@sydneycummingshoudyshell). 
 
 The inspiration for this tutorial came from a conversation with the QuaranTeam as January 2023 kicked off and Sydney's messaging reflected the fresh start of a new year. She ends every workout with a cool down, and as she leads us through stretches, she free-styles a motivational talk. Her words can really hit home! I haven't been good about jotting down notes about what she said.
