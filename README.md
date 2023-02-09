@@ -16,7 +16,7 @@ In this guide, you will
 
 ### Contents
 
-00. [API Setup](https://github.com/ltran17/motivational_messages/blob/main/notebooks/00-api-setup.ipynb): YouTube and OpenAI's APIs 
+00. [API Setup](https://github.com/ltran17/motivational_messages/blob/main/notebooks/00-api-setup.ipynb)
 01. [Video Metadata](https://github.com/ltran17/motivational_messages/blob/main/notebooks/01-metadata.ipynb)
 02. [Video Transcripts](https://github.com/ltran17/motivational_messages/blob/main/notebooks/02-transcripts.ipynb)
 03. [Motivational Talks](https://github.com/ltran17/motivational_messages/blob/main/notebooks/03-motivation.ipynb)
