@@ -14,12 +14,12 @@ In this guide, you will
 * Use OpenAI's API for Chat GPT3
 * Be exposed to motivational messaging -- take what works for you and leave the rest
 
-### Contents (work in progress)
+### Contents
 
-00. [Prep work](https://github.com/ltran17/motivational_messages/blob/main/notebooks/00-api-setup.ipynb): YouTube and OpenAI's APIs :white_check_mark:
-01. [Extract video metadata](https://github.com/ltran17/motivational_messages/blob/main/notebooks/01-metadata.ipynb) :white_check_mark:
-02. [Extract motivational talk for each video](https://github.com/ltran17/motivational_messages/blob/main/notebooks/02-transcripts.ipynb) :white_check_mark:
-03. Summarize motivational talks
+00. [Prep work](https://github.com/ltran17/motivational_messages/blob/main/notebooks/00-api-setup.ipynb): YouTube and OpenAI's APIs 
+01. [Extract video metadata](https://github.com/ltran17/motivational_messages/blob/main/notebooks/01-metadata.ipynb)
+02. [Extract motivational talk for each video](https://github.com/ltran17/motivational_messages/blob/main/notebooks/02-transcripts.ipynb)
+03. [Summarize motivational talks](https://github.com/ltran17/motivational_messages/blob/main/notebooks/03-motivation.ipynb)
 
 ### Why this tutorial
 
