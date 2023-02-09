@@ -16,10 +16,10 @@ In this guide, you will
 
 ### Contents
 
-00. [Prep work](https://github.com/ltran17/motivational_messages/blob/main/notebooks/00-api-setup.ipynb): YouTube and OpenAI's APIs 
-01. [Extract video metadata](https://github.com/ltran17/motivational_messages/blob/main/notebooks/01-metadata.ipynb)
-02. [Extract motivational talk for each video](https://github.com/ltran17/motivational_messages/blob/main/notebooks/02-transcripts.ipynb)
-03. [Summarize motivational talks](https://github.com/ltran17/motivational_messages/blob/main/notebooks/03-motivation.ipynb)
+00. [API Setup](https://github.com/ltran17/motivational_messages/blob/main/notebooks/00-api-setup.ipynb): YouTube and OpenAI's APIs 
+01. [Video Metadata](https://github.com/ltran17/motivational_messages/blob/main/notebooks/01-metadata.ipynb)
+02. [Video Transcripts](https://github.com/ltran17/motivational_messages/blob/main/notebooks/02-transcripts.ipynb)
+03. [Motivational Talks](https://github.com/ltran17/motivational_messages/blob/main/notebooks/03-motivation.ipynb)
 
 ### Why this tutorial
 
